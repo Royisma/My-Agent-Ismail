@@ -1,4 +1,0 @@
-{
-  "title": "List all skills in PopeBot. For each skill, show:",
-  "job": "List all skills in PopeBot. For each skill, show:\n- The skill name\n- The path where it's stored\n- The complete content of the skill file\n\nUse find to locate skills and cat to display their contents."
-}
