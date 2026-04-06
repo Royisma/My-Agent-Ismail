@@ -1,4 +1,0 @@
-{
-  "title": "Investigate PopeBot's interactive mode and local model provider compatibility:",
-  "job": "Investigate PopeBot's interactive mode and local model provider compatibility:\n\n1. Find all files related to \"interactive mode\" - search for \"interactive\" in the codebase\n2. Examine the provider/configuration setup, especially how LM Studio/local models are handled\n3. Identify what prevents interactive mode from opening when using non-Claude providers\n4. Look for any errors or assumptions in the code that only account for Claude API\n\nReturn your findings about:\n- What interactive mode is supposed to do\n- What code block causes it to fail with LM Studio\n- Any bugs or missing error handling for local models"
-}
